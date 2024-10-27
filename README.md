@@ -1,4 +1,4 @@
-# Cube
+# Spinning Cube
 
 ## CSS Exercise
 * 3D transformations
